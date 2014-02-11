@@ -1,0 +1,15 @@
+{
+  "name": "matchcolor",
+  "version": "0.0.0",
+  "description": "Find the match or closest match of a hexcolor.",
+  "main": "deploy/index.js",
+  "directories": {
+    "doc": "doc",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sean Brewer",
+  "license": "Eclipse Public License"
+}
