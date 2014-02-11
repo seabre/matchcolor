@@ -11,5 +11,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Sean Brewer",
-  "license": "Eclipse Public License"
+  "license": "Eclipse Public License",
+  "dependencies": {
+    "logfmt": "~0.20.0",
+    "express": "~3.4.8"
+  }
 }
