@@ -8,6 +8,10 @@ This was mainly an experiment in developing a simple web application in ClojureS
 
 It uses [express](https://github.com/visionmedia/express), [hiccups](https://github.com/teropa/hiccups) for views, [logfmt](https://github.com/kr/logfmt) for logging, and [garden](https://github.com/noprompt/garden) for the hex<->rgb conversions it provides.
 
+The massive color lists comes from [Wikipedia](http://en.wikipedia.org/wiki/Lists_of_colors).
+
+Layout is one of the [Bootstrap examples](http://getbootstrap.com/getting-started/#examples).
+
 ## Building and Running
 
 1. `lein deps`
