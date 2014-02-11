@@ -1,10 +1,12 @@
 # matchcolor
 
-A server-side Node.js app written in ClojureScript to find the match or the closest match to a hexcolor/
+A server-side Node.js app written in ClojureScript to find the match or the closest match to a hexcolor.
 
 ## Why?
 
 This was mainly an experiment in developing a simple web application in ClojureScript, using ClojureScript as the server-side language and Node.js as the runtime.
+
+It uses [express](https://github.com/visionmedia/express), [hiccups](https://github.com/teropa/hiccups) for views, [logfmt](https://github.com/kr/logfmt) for logging, and [garden](https://github.com/noprompt/garden) for the hex<->rgb conversions it provides.
 
 ## Building and Running
 
