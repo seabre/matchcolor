@@ -25,7 +25,7 @@
   [:div.inner.cover
        [:h1.cover-heading "About"]
        [:p.lead
-        "An experiment in building a server-side web application in ClojureScript that also does something relatively useful: Find the name of hexcolor."]])
+        "An experiment in building a server-side web application in ClojureScript that also does something relatively useful: Find the name of a hexcolor."]])
 
 (def four-oh-four
   [:div.inner.cover
