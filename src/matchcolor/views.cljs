@@ -72,6 +72,13 @@
    "<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->"
    "<!--[if lt IE 9]>\n      <script src=\"https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js\"></script>\n      <script src=\"https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js\"></script>\n    <![endif]-->"]
   [:body
+   [:a
+    {:href "https://github.com/seabre/matchcolor"}
+    [:img
+     {:style "position: absolute; top: 0; left: 0; border: 0;",
+      :src
+      "https://s3.amazonaws.com/github/ribbons/forkme_left_gray_6d6d6d.png",
+      :alt "Fork me on GitHub"}]]
    [:div.site-wrapper
     [:div.site-wrapper-inner
      [:div.cover-container
